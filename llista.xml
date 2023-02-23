@@ -26,5 +26,83 @@
             <comment>A front-wheel-drive hero with blistering performance and track-ready handling</comment>
         </review>
     </car>
+    <car model="Toyota Supra" year="2021" price="55000" rating="4.5">
+        <features>
+            <feature name="Engine">3.0L Inline-6 Turbocharged</feature>
+            <feature name="Horsepower">382 hp</feature>
+            <feature name="Torque">368 lb-ft</feature>
+            <feature name="Transmission">8-speed automatic</feature>
+        </features>
+        <review>
+            <author>Car and Driver</author>
+            <rating>4.5</rating>
+            <comment>A modern-day sports car that lives up to its iconic name</comment>
+        </review>
+    </car>
+        <car model="Toyota Supra" year="2021" price="55000" rating="4.5">
+        <features>
+            <feature name="Engine">3.0L Inline-6 Turbocharged</feature>
+            <feature name="Horsepower">382 hp</feature>
+            <feature name="Torque">368 lb-ft</feature>
+            <feature name="Transmission">8-speed automatic</feature>
+        </features>
+        <review>
+            <author>Car and Driver</author>
+            <rating>4.5</rating>
+            <comment>A modern-day sports car that lives up to its iconic name</comment>
+        </review>
+    </car>
+    <car model="Toyota Supra" year="2021" price="55000" rating="4.5">
+        <features>
+            <feature name="Engine">3.0L Inline-6 Turbocharged</feature>
+            <feature name="Horsepower">382 hp</feature>
+            <feature name="Torque">368 lb-ft</feature>
+            <feature name="Transmission">8-speed automatic</feature>
+        </features>
+        <review>
+            <author>Car and Driver</author>
+            <rating>4.5</rating>
+            <comment>A modern-day sports car that lives up to its iconic name</comment>
+        </review>
+    </car>
+    <car model="Toyota Supra" year="2021" price="55000" rating="4.5">
+        <features>
+            <feature name="Engine">3.0L Inline-6 Turbocharged</feature>
+            <feature name="Horsepower">382 hp</feature>
+            <feature name="Torque">368 lb-ft</feature>
+            <feature name="Transmission">8-speed automatic</feature>
+        </features>
+        <review>
+            <author>Car and Driver</author>
+            <rating>4.5</rating>
+            <comment>A modern-day sports car that lives up to its iconic name</comment>
+        </review>
+    </car>
+    <car model="Toyota Supra" year="2021" price="55000" rating="4.5">
+        <features>
+            <feature name="Engine">3.0L Inline-6 Turbocharged</feature>
+            <feature name="Horsepower">382 hp</feature>
+            <feature name="Torque">368 lb-ft</feature>
+            <feature name="Transmission">8-speed automatic</feature>
+        </features>
+        <review>
+            <author>Car and Driver</author>
+            <rating>4.5</rating>
+            <comment>A modern-day sports car that lives up to its iconic name</comment>
+        </review>
+    </car>
+    <car model="Toyota Supra" year="2021" price="55000" rating="4.5">
+        <features>
+            <feature name="Engine">3.0L Inline-6 Turbocharged</feature>
+            <feature name="Horsepower">382 hp</feature>
+            <feature name="Torque">368 lb-ft</feature>
+            <feature name="Transmission">8-speed automatic</feature>
+        </features>
+        <review>
+            <author>Car and Driver</author>
+            <rating>4.5</rating>
+            <comment>A modern-day sports car that lives up to its iconic name</comment>
+        </review>
+    </car>
     ...
 </cars>
