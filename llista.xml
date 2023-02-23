@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <link rel="stylesheet" type="text/css" href="estils.css">
+ <link rel="stylesheet" type="text/css" href="/home/victor/M4-XML/estils.css">
 <cars>
     <car model="Toyota Supra" year="2021" price="55000" rating="4.5">
         <features>
