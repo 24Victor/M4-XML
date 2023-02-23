@@ -1,0 +1,66 @@
+/* Style for the car list */
+cars {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  /* Style for each car item */
+  car {
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Style for car model */
+  car[model] {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  /* Style for car year */
+  car[year] {
+    font-size: 0.8rem;
+    color: #888;
+  }
+  
+  /* Style for car price */
+  car[price] {
+    font-size: 1.2rem;
+    color: #008000;
+  }
+  
+  /* Style for car rating */
+  car[rating] {
+    font-size: 1.2rem;
+    color: #ffa500;
+  }
+  
+  /* Style for car features */
+  feature {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Style for feature name */
+  feature[name] {
+    font-weight: bold;
+  }
+  
+  /* Style for review author */
+  review author {
+    font-weight: bold;
+  }
+  
+  /* Style for review rating */
+  review rating {
+    color: #ffa500;
+  }
+  
+  /* Style for review comment */
+  review comment {
+    font-style: italic;
+    color: #555;
+  }
+  
