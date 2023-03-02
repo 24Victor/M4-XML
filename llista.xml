@@ -3,7 +3,7 @@
  
   <body>
     <escenario>
-      <ciudad nombre="Tokio">
+      <ciudad nombre="Tokyo">
         <coche marca="Toyota">
           <modelo>Supra</modelo>
           <color>rojo</color>
