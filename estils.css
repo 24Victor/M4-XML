@@ -1,51 +1,104 @@
-/* Estil per a totes les ciutats */
-.ciudad {
-  display: block;
+
+
+  .bloc {
+    max-width: 70%;
+    height: auto;
+    margin: 20px;
+    padding: 5px;
+    display: block;
+    margin: auto;
+
+  }
+.imatges{
+  width: 800px;
+  height: 450px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-right: 100px;
+  margin-left: 40px;
+  align-items: center;
+}
+
+html{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+body{
+  text-align:center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('fondo.jpg');
+}
+div {
+  padding: 20px;
+}
+
+
+/*CSS DEL FORMULARI
+.form-register {
+  width: 400px;
+  background: #24303c;
+  padding: 30px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+  box-shadow: 7px 13px 37px #000;
+}
+
+.form-register h4 {
+  font-size: 22px;
   margin-bottom: 20px;
-  font-style: red;
 }
 
-/* Estilo per al nom de la ciutat */
-.ciudad[nombre] {
-  font-size: 20px;
-  font-weight: bold;
-}
-
-/* Estilo per a tots els cotxes */
-.coche {
-  display: block;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
+.controls {
+  width: 100%;
+  background: #24303c;
   padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
 }
 
-/* Estilo per a marca del cotxe */
-.coche[marca] {
+.form-register p {
+  height: 40px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 40px;
+}
+
+.form-register a {
+  color: white;
+  text-decoration: none;
+}
+
+.form-register a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.form-register .botons {
+  width: 100%;
+  background: #1f53c5;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
   font-size: 16px;
-  font-weight: bold;
 }
 
-/* Estil per al model del cotxe */
-.modelo {
-  font-size: 14px;
-  margin-bottom: 5px;
-}
 
-/* Estil per al color del cotxe */
-.color {
-  font-size: 14px;
-  margin-bottom: 5px;
-}
-
-/* Estil per a l'any del cotxe */
-.ano {
-  font-size: 14px;
-  margin-bottom: 5px;
-}
-
-/* Estil per al preu del cotxe */
-.precio {
-  font-size: 16px;
-  font-weight: bold;
-  color: green;
-}
