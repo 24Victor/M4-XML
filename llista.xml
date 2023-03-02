@@ -1,7 +1,6 @@
-<xml>
-  <head>
-    <link rel="stylesheet" type="text/css" href="estils.css"></link>
-  </head>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estils.css"?>
+ 
   <body>
     <escenario>
       <ciudad nombre="Tokio">
@@ -34,4 +33,3 @@
       </ciudad>
     </escenario>
   </body> 
-</xml>
