@@ -1,51 +1,50 @@
 /* Estilo para todas las ciudades */
 .ciudad {
-    display: block;
-    margin-bottom: 20px;
-  }
-  
-  /* Estilo para el nombre de la ciudad */
-  .ciudad[nombre] {
-    font-size: 20px;
-    font-weight: bold;
-  }
-  
-  /* Estilo para todos los coches */
-  .coche {
-    display: block;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    padding: 10px;
-  }
-  
-  /* Estilo para la marca del coche */
-  .coche[marca] {
-    font-size: 16px;
-    font-weight: bold;
-  }
-  
-  /* Estilo para el modelo del coche */
-  .modelo {
-    font-size: 14px;
-    margin-bottom: 5px;
-  }
-  
-  /* Estilo para el color del coche */
-  .color {
-    font-size: 14px;
-    margin-bottom: 5px;
-  }
-  
-  /* Estilo para el año del coche */
-  .ano {
-    font-size: 14px;
-    margin-bottom: 5px;
-  }
-  
-  /* Estilo para el precio del coche */
-  .precio {
-    font-size: 16px;
-    font-weight: bold;
-    color: green;
-  }
-  
+  display: block;
+  margin-bottom: 20px;
+}
+
+/* Estilo para el nombre de la ciudad */
+.ciudad[nombre] {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Estilo para todos los coches */
+.coche {
+  display: block;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* Estilo para la marca del coche */
+.coche[marca] {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* Estilo para el modelo del coche */
+.modelo {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* Estilo para el color del coche */
+.color {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* Estilo para el año del coche */
+.ano {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* Estilo para el precio del coche */
+.precio {
+  font-size: 16px;
+  font-weight: bold;
+  color: green;
+}

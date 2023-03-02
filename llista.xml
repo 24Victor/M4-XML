@@ -1,33 +1,37 @@
 <xml>
- <link rel="stylesheet" type="text/css" href="/home/victor/M4-XML/estils.css"> </link>
- <escenario>
-   <ciudad nombre="Tokio">
-     <coche marca="Toyota">
-       <modelo>Supra</modelo>
-       <color>rojo</color>
-       <ano>2022</ano>
-       <precio>45000</precio>
-     </coche>
-     <coche marca="Mazda">
-       <modelo>RX-7</modelo>
-       <color>azul</color>
-       <ano>1997</ano>
-       <precio>28000</precio>
-     </coche>
-   </ciudad>
-   <ciudad nombre="Kyoto">
-     <coche marca="Nissan">
-       <modelo>Skyline GT-R</modelo>
-       <color>plata</color>
-       <ano>1999</ano>
-       <precio>32000</precio>
-     </coche>
-     <coche marca="Honda">
-       <modelo>NSX</modelo>
-       <color>blanco</color>
-       <ano>2023</ano>
-       <precio>65000</precio>
-     </coche>
-   </ciudad>
- </escenario>
+  <head>
+    <link rel="stylesheet" type="text/css" href="estils.css"></link>
+  </head>
+  <body>
+    <escenario>
+      <ciudad nombre="Tokio">
+        <coche marca="Toyota">
+          <modelo>Supra</modelo>
+          <color>rojo</color>
+          <ano>2022</ano>
+          <precio>45000</precio>
+        </coche>
+        <coche marca="Mazda">
+          <modelo>RX-7</modelo>
+          <color>azul</color>
+          <ano>1997</ano>
+          <precio>28000</precio>
+        </coche>
+      </ciudad>
+      <ciudad nombre="Kyoto">
+        <coche marca="Nissan">
+          <modelo>Skyline GT-R</modelo>
+          <color>plata</color>
+          <ano>1999</ano>
+          <precio>32000</precio>
+        </coche>
+        <coche marca="Honda">
+          <modelo>NSX</modelo>
+          <color>blanco</color>
+          <ano>2023</ano>
+          <precio>65000</precio>
+        </coche>
+      </ciudad>
+    </escenario>
+  </body> 
 </xml>
