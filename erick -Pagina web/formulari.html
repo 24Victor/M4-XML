@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+    <h3>Dades Personals</h3>
+    <form id="formulari" action="" method="post">
+      <input type="hidden" name="redirect" value="" tabindex="1" />
+          <ul>
+              <li>
+                <label for="tractament">Tractament com a:</label>
+                <input type="text" list="tractament" … >
+                <datalist id="tractament">
+                  <option label="Sr" value="Sr">
+                  <option label="Sra" value="Sra">
+                  <option label="Srta" value="Srta">
+                </datalist>
+              </li>
+              <li>
+                <label for="nom">Nom:</label>
+                <input type="text" name="nom" id="nom" value="" tabindex="2" required/>
+              <li>
+                <label for="cognom">Cognom:</label>
+                <input type="text" name="cognom" id="cognom" value="" tabindex="2" required/>
+              </li>
+              <li>
+                <label for="correu-electronic">Correu electrònic:</label>
+                <input type="email" name="correu-electronic" id="correu-electronic" value="" placeholder="usuari@domini.com" tabindex="3" required/>
+              </li>
+              <li>
+                <label for="comprovacio">Torneu a introduïr el correu electrònic:</label>
+                <input type="email" name="correu-electronic" id="correu-electronic" value="" placeholder="usuari@domini.com" tabindex="3" required/>
+              </li>
+                <label for="constrasenya">Constrasenya:</label>
+                <input type="password" name="constrasenya" id="constrasenya" value="" tabindex="2" />
+</html>
